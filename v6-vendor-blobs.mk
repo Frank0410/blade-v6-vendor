@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/v6/proprietary/bin/ccci_mdinit:system/bin/ccci_mdinit \
     vendor/zte/v6/proprietary/bin/akmd09911:system/bin/akmd09911 \
     vendor/zte/v6/proprietary/bin/nvram_daemon:system/bin/nvram_daemon \
-    vendor/zte/v6/proprietary/bin/mc6470d:system/bin/mc6470d \
+#    vendor/zte/v6/proprietary/bin/mc6470d:system/bin/mc6470d \
     vendor/zte/v6/proprietary/bin/akmd8963:system/bin/akmd8963 \
     vendor/zte/v6/proprietary/bin/orientationd:system/bin/orientationd \
     vendor/zte/v6/proprietary/bin/mtk_agpsd:system/bin/mtk_agpsd \
