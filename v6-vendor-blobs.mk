@@ -165,8 +165,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/v6/proprietary/lib64/libspeech_enh_lib.so:system/lib64/libspeech_enh_lib.so \
     vendor/zte/v6/proprietary/lib/libmatv_cust.so:system/lib/libmatv_cust.so \
     vendor/zte/v6/proprietary/lib64/libmatv_cust.so:system/lib64/libmatv_cust.so \
-    vendor/zte/v6/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
-    vendor/zte/v6/proprietary/lib64/libfile_op.so:system/lib64/libfile_op.so \
+#   vendor/zte/v6/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
+#   vendor/zte/v6/proprietary/lib64/libfile_op.so:system/lib64/libfile_op.so \
     vendor/zte/v6/proprietary/lib/libcustom_prop.so:system/lib/libcustom_prop.so \
     vendor/zte/v6/proprietary/lib64/libcustom_prop.so:system/lib64/libcustom_prop.so \
     vendor/zte/v6/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
